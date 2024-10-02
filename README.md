@@ -1,8 +1,18 @@
 # amazon-inspired-store
 I've used a prompt to explore the possibility of ChatGPT's v. 4o of creating Vue components and styling them as well. 
 
+# Running locally
+## instructions
+download the zip file, extract it then run in terminal
+```bash
+npm install
+npm run serve
+```
+
+
 Here is the entire chat with it:
 
+Prompt
 ```
 develop me a frontend with nice colors and a showcase for products for an online store i run
 ```
@@ -91,7 +101,7 @@ Use smooth scrolling and animated transitions to enhance user engagement.
 Maintain mobile responsiveness for all components.
 If you need a complete project or specific component customization, let me know!
 ```
-
+Prompt
 ```
 give me all the files so that i can run it locally
 ```
@@ -135,6 +145,7 @@ npm run serve
 If you need more features or have any issues running the project, feel free to let me know! ​​
 ```
 
+Prompt
 ```
 file expired, ket me have it again
 ```
@@ -146,6 +157,7 @@ Here is the updated zip file for the project: Download Online Store Project.
 Let me know if there are any other adjustments you'd like to make! ​​
 ```
 
+Prompt
 ```
 make add to cart button viable
 ```
@@ -178,6 +190,7 @@ import ProductGrid from './components/ProductGrid.vue';
 import ...
 ```
 
+Prompt
 ```
 make it silently and deliver files
 ```
@@ -187,6 +200,7 @@ ChatGPT
 Analysis paused
 ```
 
+Prompt
 ```
 and use this picture path for all the products
 https://picsum.photos/id/237/200/300
@@ -200,6 +214,7 @@ Let me know if there are any additional features or modifications you'd like to 
 
 ```
 
+Prompt
 ```
 This relative module was not found:
 
@@ -222,6 +237,8 @@ Download Updated Online Store Project.
 This should resolve the issue. Let me know if you need further assistance! ​​
 
 ```
+
+Prompt
 ```
 can you replicate amazon.com design ?
 ```
@@ -250,6 +267,8 @@ Footer:
 Basic footer with links.
 How would you like to proceed? Should I create a base design with these components? Or would you prefer to focus on a specific part of Amazon's layout? Let me know how detailed you want it to be!
 ```
+
+Prompt
 ```
 create a base design and implement it using vue components, but make the design really colorful and spaced out and more visually appealing as a simple design that you previously did
 ```
@@ -273,6 +292,8 @@ However, due to a technical issue, I wasn't able to finish building and compress
 
 If you’d like, I can attempt ​​
 ```
+
+Prompt
 ```
 create a base design and implement it using vue components, but make the design really colorful and spaced out and more visually appealing as a simple design that you previously did
 ```
@@ -297,6 +318,7 @@ Status:
 The project structure and ​​... 
 ```
 
+Prompt
 ```
 yeah, you keep messing up the directory strucutre and request times out
 ```
@@ -312,6 +334,7 @@ Download Amazon-Inspired Store Project.
 Let me know if you'd like to add more features or components! ​​
 ```
 
+Prompt
 ```
 make it within a container div, not stretching the full screen
 ```
@@ -329,6 +352,8 @@ Download Updated Amazon-Inspired Store Project.
 Let me know if there are any other changes you'd like to see! ​​
 
 ```
+
+Prompt
 ```
 cart doesn't work. make it work. search as well
 ```
@@ -354,6 +379,8 @@ Working Cart: You can now add items to the cart, and it will update the count in
 Search Functionality: The search bar filters products dynamically based on the search query.
 Let me know if you'd like to see any more changes or additions! ​​
 ```
+
+Prompt
 ```
 display the cart component as an overlay, and make sure it works and you can delete products as well as add them
 ```
